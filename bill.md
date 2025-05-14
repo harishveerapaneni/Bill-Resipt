@@ -1,7 +1,7 @@
            Lucky Restaurant
 LAKADIKAPOOL, HYDERABAD, TELANGANA 500083
             GSTIN:XXXXXXXXXXXX
-            CASH/BILL
+                CASH/BILL
 -------------------------------------------
 
 BILL NO: XXXXXXXXXXXX
